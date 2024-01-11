@@ -1,7 +1,6 @@
 -  <h1>Hi, I’m Sheikh Hasinur Rahman<h1>
      <h2> Web developer & JavaScript lover<h2>
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning from <a href="https://www.programming-hero.com/">Programming-hero </a>
 - 💞️ Fun fact: I love to painting and travelling.
 - 📫 How to reach me ...
       <a href="https://www.linkedin.com/in/sheikh-hasinur-rahman/">LinkedIn</a> ||
